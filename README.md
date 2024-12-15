@@ -2,8 +2,8 @@ Hi, my name is Saar Ezagouri, and I am about to complete my PhD in Chronobiology
 
 **My Personal Email:** sezagouri@gmail
 
-**Online Profiles:**
-[Google Scholar](https://scholar.google.com/citations?user=JC14QBAAAAAJ&hl=en)
+**Online Profiles:**<br>
+[Google Scholar](https://scholar.google.com/citations?user=JC14QBAAAAAJ&hl=en)<br>
 [Google Patents](https://patents.google.com/patent/US20240198099A1/fr)
 
 <!--
