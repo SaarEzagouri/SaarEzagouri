@@ -7,7 +7,7 @@ I am always open to new projects and collaborations—feel free to contact me vi
 
 **My Personal Email:** sezagouri@gmail.com
 
-**Online Profiles:** <br>
+**List of Scientific Publications and a Published Patent:** <br>
 [Google Scholar](https://scholar.google.com/citations?user=JC14QBAAAAAJ&hl=en) <br>
 [Google Patents](https://patents.google.com/patent/US20240198099A1/fr)
 
