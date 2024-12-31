@@ -3,7 +3,7 @@
 Hi, my name is Saar Ezagouri, and I am about to complete my PhD in Chronobiology and Metabolism at the Weizmann Institute of Science. <br>
 I am a data scientist, biologist, fitness instructor, and clinical nutritionist specializing in obesity and sports. <br>
 My work focuses on data-driven projects across these domains, aiming to uncover new diagnostic tools, mechanisms, drug targets, and insights to advance our understanding of human physiology and performance in health and disease. <br> 
-I am always open to new projects and collaborations—feel free to contact me via email. You can also explore my constantly updated GitHub \ [HuggingFace](https://huggingface.co/SaarEzagouri) for my latest work and innovations.
+I am always open to new projects and collaborations—feel free to contact me via email. You can also explore my constantly updated GitHub \ [Hugging Face](https://huggingface.co/SaarEzagouri) for my latest work and innovations.
 
 **My Personal Email:** sezagouri@gmail.com
 
