@@ -1,6 +1,6 @@
 # Welcome 
 
-Hi, I am a solo founder, owner of Salute: Nutrition & Fitness. <br>
+Hi, I am Saar Ezagouri, a solo founder, owner of Salute: Nutrition & Fitness. <br>
 I develop with flutter, python, PHP and laravel mainly. I love data science, health and everything that is in between. <br>
 **Salute's webiste:** <br>
 - [Salute](https://www.trysalute.com/)
