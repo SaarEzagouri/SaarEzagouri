@@ -1,15 +1,14 @@
 # Welcome 
 
-Hi, my name is Saar Ezagouri, I have a PhD in computational biology from the Weizmann Institute of Science. <br>
-I am a data scientist, biologist, fitness instructor, and clinical nutritionist specializing in obesity and sports. <br>
-My work focuses on data-driven projects across these domains, aiming to uncover new diagnostic tools, mechanisms, drug targets, and insights to advance our understanding of human physiology and performance in health and disease. <br> 
-I am always open to new projects and collaborations—feel free to contact me via email. You can also explore my constantly updated GitHub \ [Hugging Face](https://huggingface.co/SaarEzagouri) for my latest work and innovations.
-
-**My Personal Email:** sezagouri@gmail.com
+Hi, I am a solo founder, owner of Salute: Nutrition & Fitness. <br>
+I develop with flutter, python, PHP and laravel mainly. I love data science, health and everything that is in between. <br>
+- Salute's webiste: [Salute](https://www.trysalute.com/)
 
 **List of Scientific Publications and a Published Patent:** <br>
 [Google Scholar](https://scholar.google.com/citations?user=JC14QBAAAAAJ&hl=en) <br>
 [Google Patents](https://patents.google.com/patent/US20240198099A1/fr)
+
+
 
 <!--
 **SaarEzagouri/SaarEzagouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
